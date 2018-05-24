@@ -29,7 +29,7 @@ single place.
 
 [Prospects](#prospects)
 
-[Awards] (#awards)
+[Awards](#awards)
 ---
 
 ### <a name="teams"></a>Teams
